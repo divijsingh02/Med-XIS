@@ -4,7 +4,7 @@ This repository includes code for training medical image segmentation model alon
 
 Model used is Deeplabv3plus+resnet101
 
-Interpretations :
+Interpretability Methods:
 
 I.   Counterfactual attribute-based Interpretation
 
@@ -26,7 +26,7 @@ ii) chal2 (trained on kvasir instrument)
 
 link
 
-Link to download whole repository and the pretrained weights
+Link to download whole repository and the pretrained weights.
 
 link
 
