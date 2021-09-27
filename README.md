@@ -1,4 +1,4 @@
-# MedAI-Image-segmentation-and-Interpretation
+# Medical explainable Image Segmentation (Med-XIS)
 
 This repository includes code for training medical image segmentation model along with its interpretations
 
